@@ -1,0 +1,477 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ctl.byu.edu//NONSGML kigkonsult.se iCalcreator 2.24//
+X-WR-CALNAME:Discrete Structure
+BEGIN:VEVENT
+UID:UNpOczwVpOI0QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231010
+SUMMARY:Homework 9a -- Propositional Logic (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:Utd18okgOSZmQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231122
+SUMMARY:Homework 22 -- DFS Traversal (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:Dih90pBnlDwtQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231118
+SUMMARY:Homework 20 -- Equivalence Relations (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:TjCjqt-WVz90QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Properties of Relations on a Set
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231107
+SUMMARY:Homework 17 -- Relations on a Set (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:WgqO4prTvG9tQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231031
+SUMMARY:Homework 14 -- Select\, Project\, and Rename (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:uAdcgP9_qBFXQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231102
+SUMMARY:HW 15 -- Natural Join\, Cross Product\, and Union (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:lM0eeRCBluyYQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230916
+SUMMARY:Homework 2 -- Functions (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:ElQ7NphmN-wyQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:You are only allowed to use your 8.5x11 page of notes. You have
+  1 hour 20 minutes to complete the Midterm Exam. Each question is equally 
+ weighted at 10 points. There are six questions in total. The first is to u
+ pload your prep exam. There are five remaining questions that you must ans
+ wer. Make sure to have the prep exam completed and in pdf or png format BE
+ FORE starting the Exam
+DTSTART;VALUE=DATE:20231024
+DTEND;VALUE=DATE:20231028
+SUMMARY:Midterm Exam
+END:VEVENT
+BEGIN:VEVENT
+UID:arsniUyyxsc2QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230912
+SUMMARY:Homework 1 -- Sets (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:jUHYepugnmgvQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230909
+SUMMARY:Homework 0 -- Discord (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:ZTlhZk6oEsCoQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231114
+SUMMARY:Homework 18a -- Paths in Graphs (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:Q2PokxpYYxnvQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20230919
+SUMMARY:Homework 3 -- Regular Expressions and Simple FSAs (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:dxDQy3ePSoLqQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231017
+SUMMARY:Homework 10a -- Deductive Proofs (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:ger8CGq1Pm99QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231021
+SUMMARY:Homework 12 -- Proofs with Quantified Statements (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:mbR2zzdAjs7MQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231019
+SUMMARY:Homework 11a -- Proof by Contradiction (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:KWGF6mgyQjRvQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20231121
+SUMMARY:Homework 21a -- Induction (Online)
+END:VEVENT
+BEGIN:VEVENT
+UID:opau8dj-EeZMQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Make sure to have the prep exam completed and in pdf or png for
+ mat BEFORE starting the Exam You are only allowed to use your 8.5x11 page 
+ of notes. Both sides of the paper can be used. You have 1 hour and 20 minu
+ tes to complete the Final Exam. Make sure to answer all parts (a\, b\, c\,
+  etc.) of each question. Each question is equally weighted at 10 points. T
+ here are six questions in total.
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231222
+SUMMARY:Final Exam
+END:VEVENT
+BEGIN:VEVENT
+UID:8WvC-cTdhhh8QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Project specifications are found under the 'Content' tab of Lea
+ rning Suite.\n
+DTSTART;VALUE=DATE:20231214
+SUMMARY:Project 5b -- Interpreter: Optimization
+END:VEVENT
+BEGIN:VEVENT
+UID:-izPzhsEENO8QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Do problems 2 and 4a (for problem 4\, only complete part a and 
+ ignore the intro. Focus only on a) from the link.\nCORRECTION: in part 4a 
+ it says 'do a DFS'\, but what is meant is 'do a DFS forest'\n
+DTSTART;VALUE=DATE:20231127
+SUMMARY:Homework 23 -- Depth First Search Forest
+END:VEVENT
+BEGIN:VEVENT
+UID:1UrwHjl5n1wlQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Project specifications are found under the 'Content' tab of Lea
+ rning Suite.\n
+DTSTART;VALUE=DATE:20231130
+SUMMARY:Project 4 -- Interpreter: Rules
+END:VEVENT
+BEGIN:VEVENT
+UID:3buSMRIDK7RkQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Do problems 3\, 4\, and 5 from the link.\n
+DTSTART;VALUE=DATE:20231204
+SUMMARY:Homework 24 -- Floyd's and Warshall's Algorithms 
+END:VEVENT
+BEGIN:VEVENT
+UID:4G05kow9UR3mQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Project specifications are found under the 'Content' tab of Lea
+ rning Suite.\n
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Project 3 -- Interpreter: Simple Queries
+END:VEVENT
+BEGIN:VEVENT
+UID:5u4LpoPlO3TqQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Project specifications are found under the 'Content' tab of Lea
+ rning Suite.\n
+DTSTART;VALUE=DATE:20231012
+SUMMARY:Project 2 -- Parser
+END:VEVENT
+BEGIN:VEVENT
+UID:9U38k-ElInPDQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Do problems 7a\,b from the link.\n
+DTSTART;VALUE=DATE:20231211
+SUMMARY:Homework 26 -- Prim's and Kruskal's Algorithms
+END:VEVENT
+BEGIN:VEVENT
+UID:ab7uy9YuTdboQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the tutorials here\n
+DTSTART;VALUE=DATE:20230913
+SUMMARY:Project 0 -- VSCode\, Python\, Github tutorials
+END:VEVENT
+BEGIN:VEVENT
+UID:CeucWMQ04ONcQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following 4 problems. Submit a photo of your work 
+ to this assignment before the due date.\nProblem 1.\nGiven the following p
+ remises\, use resolution and universal instantiation to prove F(c) where c
+  is part of the domain of x and w.\n\(1. \forall x\ A(x) \\ 2. \forall x\ 
+ [\neg A(x)\vee C(x)] \\ 3. \forall x\,w \ [\neg C(x) \vee F(w)] \)\nProble
+ m 2.\nLet the domain of the variables x\, y\, and w be the set {a\,b\,c}. 
+ Given the following premises\, use resolution\, universal generalization (
+ Table 2 in seciton 1.6.7)\, and universal instantiation to prove ∀x B(x). 
+ \n\(1.\ \neg A(x) \vee B(y) \\ 2.\ \neg C(x) \vee G(w) \\ 3.\ \neg G(x) \\
+  4.\ A(x)\)\nProblem 3.\nRepeat problem 2\, but prove ∀w ¬C(w)\nNote that 
+ 'Universal Generalization' use used when you need to turn an arbitrary w i
+ nto an arbitrary x (when neither variable is specified\, it is arbitrary a
+ nd must hold for all values it can take on).\nProblem 4.\nDo problem 6 fro
+ m this link.\n \nWhen problem six uses the word 'Algebraically\,' just use
+  rules of inference in each step of your transformation.\nNote: (This is n
+ ot a HW question)\nWhy can I go from \n∀ x P(x) ∧ ∃ z R(z)\nto\n∀ ∃ z x P(
+ x) ∧ R(z) ?\nBecause the scope of the ∃ z is the same for both statements.
+  This process is called the null quantification rule and it's defined in p
+ roblems 48-51 in the homework at the end of section 1.4.\n \n
+DTSTART;VALUE=DATE:20231023
+SUMMARY:Homework 13 -- Proofs with Quantified Statements\, Written
+END:VEVENT
+BEGIN:VEVENT
+UID:c8x52ge9QBwkQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following 3 problems (ignore the link at the botto
+ m). Submit a photo of your work to this assignment before the due date.\nG
+ ive a parse table for the following grammar. (S is the start symbol.) S ::
+ = ABeA ::= dBA ::= aSA ::= cB ::= ASB ::= bUsing your parse table in Probl
+ em 6\, give a trace of the parse for the input string dbbe. Give the unuse
+ d input string\, stack\, and output (sequence of rule numbers) at the begi
+ nning of each iteration. The 'unused input string' includes the symbol poi
+ nted to by the little arrow in class plus all subsequent symbols in the in
+ put string\; on your submitted homework\, you should drop the symbol from 
+ the input string when you match stack symbol to input string symbol (e.g.\
+ , *ab goes to ab when the top of the stack is a *). (The answer should loo
+ k similar to the traces we did in class.)Complete the Jupyter notebook tut
+ orial on recursive descent parsing from this repository: https://github.co
+ m/BYU-CS-236/jupyter-notebook-tutorials.git. Submit a screen shot of the f
+ inal cell in the tutorial as evidence that you stepped through the tutoria
+ l. \nOLD. Ignore. Do problems 6 and 7 from the link. \n
+DTSTART;VALUE=DATE:20231002
+SUMMARY:Homework 7 -- Parse Tables
+END:VEVENT
+BEGIN:VEVENT
+UID:ELEkPhlzDV6QQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following question\, then submit a photo of your w
+ ork to this assignment before the due date. \n\n
+DTSTART;VALUE=DATE:20231113
+SUMMARY:Homework 18b -- Graphs
+END:VEVENT
+BEGIN:VEVENT
+UID:EXM7Qn7wKzm9QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:1. Draw a finite state automaton (FSA) for a string representin
+ g a single time of day. Your FSA should accept times such as: \n12:36 pm 1
+ :59 am 4:00 pm 2:45 am\nNote that there are no leading zeros. Also\, am an
+ d pm are lowercase and have no periods. A terminal error state is not nece
+ ssary. To make the task easier\, you can make up any grouping you want. Fo
+ r example\, you may wish to let represent any digit\, let represent the di
+ git 1\, let represent any digit 0 through 2\, and let represent a space. T
+ ime statements are formatted in many ways\, but we want your FSA to only a
+ ccept the above time format − not military time or any other time format.
+ \n2. Give a regular expression for the FSA described in the previous quest
+ ion.\n \n3. Draw the following Finite State Automata (FSAs) needed for pro
+ ject 1.\na. An FSA that recognizes the language consisting of 'strings' in
+  Project 1 (see Definition 4 from section 13.3.4 and the description of Pr
+ oject 1 under Course Content). A string is a sequence of characters enclos
+ ed in single quotes. White space (space\, tab) is not skipped when inside 
+ a string. Two adjacent single quotes within a string denote an apostrophe.
+  The line number for a string token is the line where the string begins. I
+ f a string is not terminated (end of file is encountered before the end of
+  the string)\, the token becomes an undefined token.\nb. An FSA that recog
+ nizes the language consisting of 'line comments' in Project 1.  A line com
+ ment starts with a hash character (#) and ends at the end of the line or e
+ nd of the file.\nc. An FSA that recognizes the language consisting of 'blo
+ ck comments' in Project 1. A block comment starts with #| and ends with |#
+ . Block comments may cover multiple lines. Block comments can be empty and
+  multiple comments can appear on the same line. The line number for a comm
+ ent token is the line where the comment begins. If a block comment is not 
+ terminated (end of file is encountered before the end of the comment)\, th
+ e token becomes an undefined token.\nSubmit a picture of your work to this
+  assignment by the due date.\n
+DTSTART;VALUE=DATE:20230920
+SUMMARY:Homework 4 -- Complex FSAs and Regular Expressions
+END:VEVENT
+BEGIN:VEVENT
+UID:Fjt7cEUG0QLSQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Project specifications are found under the 'Content' tab of Lea
+ rning Suite.\n
+DTSTART;VALUE=DATE:20230928
+SUMMARY:Project 1 -- Lexer
+END:VEVENT
+BEGIN:VEVENT
+UID:FY0qmO00ZFzjQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following 2 problems. Submit a photo of your work 
+ to this assignment before the due date.\nConstruct the truth table for eac
+ h of the following expressions. Indicate for each expression whether it is
+  a tautology\, a contradiction\, or neither (meaning that it is contingent
+ ).(P ∧ (P → Q)) ∧¬Q(P → Q) ↔ (¬P ∨ Q)(Q ∧ (P → Q)) → PProve that the follo
+ wing expression Q ∨¬((P → Q) ∧ P) is true. In other words\, use logical eq
+ uivalences from section 1.3.2 in the textbook to prove that the expression
+  can be reduced to T. 
+DTSTART;VALUE=DATE:20231009
+SUMMARY:Homework 9b -- Propositional Logic\, Written
+END:VEVENT
+BEGIN:VEVENT
+UID:HowOWdDzc4vKQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete questions 1-3 from the following:   Download \n \n
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Homework 16 -- Applying Relational Operators
+END:VEVENT
+BEGIN:VEVENT
+UID:ImRLNZXmdO6QQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Do problem 1a from Section 13.1 from the textbook (page 894).Gi
+ ve the language (each possible string) described by the following grammar.
+  S is the start symbol. (Recall that a language is a subset of V*\, where 
+ V is the alphabet.)S → a | aTb | aTbTc\nT → x | xy | xyz\nGive a grammar f
+ or the language Time of Day\, which accepts strings such as:\n12:36 pm 1:5
+ 9 am 4:00 pm 2:45 am.\nIn general the language has strings with hour times
+  from 1 to 12\, followed by a colon\, followed by minute times from 00 to 
+ 59\, and then either am or pm. (Use BNF notation and give good mnemonic na
+ mes for concepts such as \, which is to be the start symbol\, and for digi
+ ts that are hour digits\, i.e.\, 1 through 9 but not 0.) \nSubmit a pictur
+ e of your work to this assignment by the due date.\n
+DTSTART;VALUE=DATE:20230922
+SUMMARY:Homework 5 -- Languages and Grammars
+END:VEVENT
+BEGIN:VEVENT
+UID:JVNOsctqa-YXQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete problem 6 from this link.\nHere is a picture of it for
+  convenience:\n\n
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Homework 25 -- Dijkstra's Algorithm
+END:VEVENT
+BEGIN:VEVENT
+UID:L50L90GMPcEoQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following 4 problems (ignore the link at the botto
+ m). Submit a photo of your work to learning suite by the due date.\nSometi
+ mes an expression can have two or more kinds of balanced parentheses. For 
+ example\, Java expressions can have both round and square parentheses and 
+ both must be balanced\; that is\, every '(' must match ')'\, and every '['
+  must match']'.  Write a grammar for strings of balanced parentheses of th
+ ese two types. For example ( [ ] ( [ ( ) ] ) ) is in the language but [ ( 
+ ] ) is not.The following grammar for a fictitious operator '$' is ambiguou
+ s. Demonstrate the ambiguity by creating two parse trees for some string t
+ hat you create. Note that  is the start symbol.  ::= b \n ::= b  e \n ::= 
+ \n ::= s\nThe following grammar for a fictitious operator '$' is ambiguous
+ . Demonstrate the ambiguity by creating two parse trees for the expression
+  2 $ 3 $ 0. Note that  is the start symbol.  ::= 0|1|2|3\n ::= \n ::= $\nF
+ ix the grammar in Problem #3 so that it is not ambiguous. Is your fixed gr
+ ammar left associative or right associative?OLD: Ignore Do problems 2\, 3\
+ , 4\, and 5 from the link.\n
+DTSTART;VALUE=DATE:20230925
+SUMMARY:Homework 6 -- Parse Trees and Ambiguity
+END:VEVENT
+BEGIN:VEVENT
+UID:tCPI4Oxv7xCHQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Do problems 1\, 2\, 5\, and 6 from the link.\nHere are the prob
+ lems repeated for convenience. Submit a photo of your work to this assignm
+ ent before the due date.\nUse the truth table method to show that the foll
+ owing arguments are sound.P → Q\nP → R\n--------------\nP →Q ∧RP ∨ Q\nP → 
+ R\nQ → R\n--------------\nRDo the following proofs deductively. Justify ea
+ ch step in your proof with a logical equivalence (e.g.\, law) or inference
+  rule. If P → Q\, ¬R →¬Q and P then prove R. If P → (Q ∧ R) and ¬R ∧ Q the
+ n prove ¬P.Given the following premises:\nProve the following conclusion: 
+ “the earth is flat.” Justify each step in your proof with a law or an infe
+ rence rule.“if cows fly then there is a man in the moon”“if there is a man
+  in the moon then the earth is flat”“cows fly”. For each of the following 
+ arguments\, indicate which of the rules of inference are used (Modus ponen
+ s\, Disjunctive syllogism\, etc.).If Mr. Smith or Mrs. Smith earns more th
+ an $30\,000 per year\, the Smith family can afford holidays in Hawaii. Sin
+ ce I know that either Mr. Smith or his wife earns more than $30\,000\, I c
+ onclude that the family can afford a holiday in Hawaii.If John was at the 
+ party yesterday\, he will sleep in. John did not sleep in. Consequently\, 
+ he was not at the party.If Susan studies hard\, she’ll get an A and if she
+  gets an A\, she’ll be happy. Hence\, if Susan studies hard\, then she’ll 
+ be happy
+DTSTART;VALUE=DATE:20231016
+SUMMARY:Homework 10b -- Deductive Proofs\, Written
+END:VEVENT
+BEGIN:VEVENT
+UID:wK6HClPBDh98QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Use mathematical induction to prove(for all integers n > 0):P(n
+ ): 1 + 3 + 6 + ... + n(n+1)/2 = n(n+1)(n+2)/6Use mathematical induction to
+  prove(for all integers n > 0):P(n): 1*1! + 2*2! + ... + n*n! = (n+1)! - 1
+ Submit a photo of your work to this assignment before the due date.\n
+DTSTART;VALUE=DATE:20231120
+SUMMARY:Homework 21b -- Induction\, Written
+END:VEVENT
+BEGIN:VEVENT
+UID:x5O4swO1ThBnQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:From this file: testInputLF.txt  Download\, do each of the foll
+ owing steps by hand (this is the algorithm that finds SCCs):\ncreate the d
+ ependency graph and adjacency listcreate the reverse dependency graph and 
+ adjacency listidentify the postorder running depth-first search forest on 
+ the reverse dependency graph. The order of vertices for the search is nume
+ rical (R0\, R1\, R2\, ...)identify the strongly connected components. This
+  is done by running depth-first search forest on the (forward) dependency 
+ graph. The order of vertices for the search is the reverse of the postorde
+ r found in step 3Note: any time you have a choice of which adjacent vertex
+  to visit\, go in numerical order.\nWhat to submit: the dependency graph a
+ nd its adjacency list\, the reverse dependency graph and its adjacency lis
+ t\, the postorder obtained from the reverse dependency graph traversal\, a
+ nd pictures of the strongly connected components. \n
+DTSTART;VALUE=DATE:20231206
+SUMMARY:Project 5a
+END:VEVENT
+BEGIN:VEVENT
+UID:YoOnBd3uVE0YQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following problems:\n1. Use resolution to prove:\n
+ if (¬P \(\vee \)R) \(\wedge\)(¬Q \(\vee \)R) \(\wedge\) (P \(\vee \)Q)\nth
+ en R\nProve by contradiction\,\nusing resolution.\n \n2. Use the following
+  set of premises and contradiction to prove \(\neg P\)\n\(\begin{array}{ll
+ } 1. & \neg P\vee Q \\ 2. & \neg Q \\ 3. & R \end{array}\)\nSubmit a photo
+  of your work to this assignment before the due date.\n
+DTSTART;VALUE=DATE:20231018
+SUMMARY:Homework 11b -- Proof by Contradiction\, Written
+END:VEVENT
+BEGIN:VEVENT
+UID:yBtpPEhOfR_4QU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following 2 problems. Submit a photo of your work 
+ to this assignment before the due date.\n1. Find the FIRST sets for all of
+  the productions with the following nonterminals (on the left-hand side) f
+ rom Project 2:\nrulequeryschemeListfactListruleListqueryListYou'll need to
+  look at the full grammar in the specifications for project 2 here.\n2. Fi
+ nd the FOLLOW sets for the following non-terminals from Project 2\nschemeL
+ istfactListruleListqueryListpredicateListparameterListstringListidList  Yo
+ u'll need to look at the full grammar in the specifications for project 2 
+ here.\n
+DTSTART;VALUE=DATE:20231004
+SUMMARY:Homework 8 -- FIRST and FOLLOW Sets
+END:VEVENT
+BEGIN:VEVENT
+UID:Zkr5G8aEbvwQQU01ke0lYENd@ctl.byu.edu
+DTSTAMP:20230910T052413Z
+DESCRIPTION:Complete the following\, then submit a photo of your work to th
+ is assignment before the due date: \n1. Give the following closures\, as s
+ pecified. \na) Let R be the relation {(a\, b)\, (b\, c)\, (c\, c)}on {a\, 
+ b\, c}. Give the reflexive closure as agraph. \nb) Let R be the relation {
+ (a\, b)\, (a\, c)\, (b\, a)\,(c\, b)\, (c\, c)} on{a\, b\, c}. Give the sy
+ mmetricclosure as a matrix. \nc) Let R be the relation {(a\, a)\, (a\, b)\
+ , (c\, d)\,(d\, a)} on{a\, b\, c\, d}. Give the transitiveclosure as a set
+  of ordered pairs. \nd) Let R be the relation {(a\, d)\, (a\, b)\, (c\, d)
+ \,(d\, a)} on{a\, b\, c\, d\, e}. Give the reflexivetransitive closure as 
+ a matrix.\n
+DTSTART;VALUE=DATE:20231115
+SUMMARY:HW 19 -- Closures
+END:VEVENT
+END:VCALENDAR
